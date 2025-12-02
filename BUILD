@@ -1,4 +1,5 @@
 cc_binary(
-    name = "hello-world",
-    srcs = ["main.cc"],
+    name = "d01",
+    srcs = ["d01.cc"],
+    data = ["input/d01.txt"],
 )
