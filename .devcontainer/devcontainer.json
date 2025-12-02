@@ -1,0 +1,8 @@
+{
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    "hostRequirements": {
+        "cpus": 4
+    }
+}
